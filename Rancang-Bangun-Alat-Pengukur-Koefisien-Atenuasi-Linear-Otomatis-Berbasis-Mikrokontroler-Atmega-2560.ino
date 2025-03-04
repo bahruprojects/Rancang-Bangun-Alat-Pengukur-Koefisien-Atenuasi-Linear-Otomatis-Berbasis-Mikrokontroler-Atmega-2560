@@ -4,6 +4,7 @@ LiquidCrystal_I2C lcd1(0x27,20,4);  // set the LCD address to 0x27 for a 20 char
 LiquidCrystal_I2C lcd2(0x26,20,4);  // set the LCD address to 0x26 for a 20 chars and 4 line display
 /*
 
+
 Example of BH1750 library usage.
 
 This example initialises the BH1750 object using the default high resolution
